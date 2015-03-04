@@ -1,0 +1,16 @@
+{
+  "name": "dirt-dobbers",
+  "version": "0.0.1",
+  "description": "Dirt Dobbers",
+  "main": "index.js",
+  "repository": "git@github.com:danielmcormond/dirt-dobbers.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.1",
+    "gulp": "^3.8.11"
+  }
+}
